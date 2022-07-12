@@ -4,8 +4,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        josefin: ["Josefin Sans"],
-        ubuntu: ["Ubuntu"],
+        open: ["Open Sans", "Arial"],
+        pacifico: ["Pacifico", "Arial"],
       },
     },
   },

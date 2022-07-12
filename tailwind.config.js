@@ -5,7 +5,7 @@ module.exports = {
     extend: {
       fontFamily: {
         open: ["Open Sans", "Arial"],
-        pacifico: ["Pacifico", "Arial"],
+        patua: ["Patua One", "Arial"],
       },
     },
   },

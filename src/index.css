@@ -15,3 +15,6 @@ body {
 header.active {
   background: #2c3639;
 }
+.menubar.active {
+  color: #fff;
+}
